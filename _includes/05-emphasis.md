@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:sparkles: Currently learning how to use __python__, _R_, and *SQL*
